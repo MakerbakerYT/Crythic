@@ -51,7 +51,7 @@ class Cryptic extends PluginBase {
 
     static $debug = true;
 
-    private static $STARTUP_WORLDS = ["wild", "pvp", "bossarena"];
+    private static $STARTUP_WORLDS = ["world"];
     private static $DIRECTORIES = ["factions", "players", "kits"];
     private static $SERVER_NAME = "§l§6Cryptic§ePE§r §7- §l§b Op Factions§r§7";
 
