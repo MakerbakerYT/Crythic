@@ -1,5 +1,5 @@
 parameters:
-    level: 5
+    level: 1
 
     checkMissingIterableValueType: true
 
@@ -11,4 +11,4 @@ parameters:
         - /source/src
     excludes_analyse:
         - vendor
-        - /source/src/core/libs
+        - /source/src/libs
